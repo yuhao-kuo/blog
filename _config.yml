@@ -1,7 +1,7 @@
 # Site Settings
 encoding: UTF-8
 exclude: ["*.gem", "*.gemspec", "Gemfile", "Gemfile.lock", "node_modules", "Rakefile", "starter-kit", "vendor"]
-lang: en # Language code as defined in _data/i18n.yml. en, en-gb, en-us, zh, zh-cn, zh-tw etc.
+lang: zh-tw # Language code as defined in _data/i18n.yml. en, en-gb, en-us, zh, zh-cn, zh-tw etc.
 permalink: /blog/:year/:month/:day/:title/
 
 whitelist: [jekyll-feed, jekyll-redirect-from, jekyll-seo-tag, jekyll-sitemap]
@@ -21,7 +21,7 @@ sass:
   style: compressed
 
 # Site Data
-url: https://yuhao-kuo.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yuhao-kuo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: "yuhao blog"
 description: ""
@@ -38,14 +38,10 @@ author:
       url: https://github.com/yuhao-kuo
     - name: instagram
       url:
-    - name: linkedin
-      url:
     - name: stackoverflow
       url:
     - name: twitter
       url: 
-    - name: vk
-      url:
 home:
   section1: <h1>Kuo Yu-Hao</h1>
   section2: <h2>Let the dream come true</h2>
@@ -53,7 +49,7 @@ home:
 blog:
   cc_license: # A link to CC License of your choice, e.g. http://creativecommons.org/licenses/by-sa/4.0/.
   cc_license_image: # An image of your CC License, e.g. /assets/images/theme/cc-by-sa.png
-  footer_content: A gem-based responsive simple texture styled Jekyll theme.
+  footer_content: Yu-Hao's personal blog.
 
 disqus:
   shortname:
@@ -62,7 +58,7 @@ google_analytics:
 addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/
 
 paths:
-  home: /
+  home: "https://yuhao-kuo.github.io"
   blog: /
   categories: /categories/
   tags: /tags/
