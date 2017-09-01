@@ -29,23 +29,23 @@ ST在STM32F405有規劃一塊bootloader程式的區塊, 因此我們可以省略
 2. **將 Hex檔案 轉成 dfu檔案**
 	1. 開啟轉檔工具 **DFU File Manager**
 	2. 選擇 轉換DFU檔案<br>
-		![](/images/postimg/stm32-usb-bootloader/HexToDfu01.PNG)
+		![](https://yuhao-kuo.github.io/blog/images/postimg/stm32-usb-bootloader/HexToDfu01.PNG)
 	3. 選擇要轉換的Hex檔案<br>
-		![](/images/postimg/stm32-usb-bootloader/HexToDfu02.PNG)
-		![](/images/postimg/stm32-usb-bootloader/HexToDfu03.PNG)
+		![](https://yuhao-kuo.github.io/blog/images/postimg/stm32-usb-bootloader/HexToDfu02.PNG)
+		![](https://yuhao-kuo.github.io/blog/images/postimg/stm32-usb-bootloader/HexToDfu03.PNG)
 	4. 轉換!!<br>
-		![](/images/postimg/stm32-usb-bootloader/HexToDfu04.PNG)
-		![](/images/postimg/stm32-usb-bootloader/HexToDfu05.PNG)
+		![](https://yuhao-kuo.github.io/blog/images/postimg/stm32-usb-bootloader/HexToDfu04.PNG)
+		![](https://yuhao-kuo.github.io/blog/images/postimg/stm32-usb-bootloader/HexToDfu05.PNG)
 	5. 完成<br>
-		![](/images/postimg/stm32-usb-bootloader/HexToDfu06.PNG)
+		![](https://yuhao-kuo.github.io/blog/images/postimg/stm32-usb-bootloader/HexToDfu06.PNG)
 3. **開始燒錄!!**
 	1. 開啟燒錄工具 **DfuSe Demo**<br>
-		![](/images/postimg/stm32-usb-bootloader/DfuSeDemo01.PNG)
+		![](https://yuhao-kuo.github.io/blog/images/postimg/stm32-usb-bootloader/DfuSeDemo01.PNG)
 	2. 將開發板設為燒錄模式
 	3. 燒錄<br>
-		![](/images/postimg/stm32-usb-bootloader/DfuSeDemo02.PNG)
-		![](/images/postimg/stm32-usb-bootloader/DfuSeDemo03.PNG)
-		![](/images/postimg/stm32-usb-bootloader/DfuSeDemo04.PNG)
-		![](/images/postimg/stm32-usb-bootloader/DfuSeDemo05.PNG)
+		![](https://yuhao-kuo.github.io/blog/images/postimg/stm32-usb-bootloader/DfuSeDemo02.PNG)
+		![](https://yuhao-kuo.github.io/blog/images/postimg/stm32-usb-bootloader/DfuSeDemo03.PNG)
+		![](https://yuhao-kuo.github.io/blog/images/postimg/stm32-usb-bootloader/DfuSeDemo04.PNG)
+		![](https://yuhao-kuo.github.io/blog/images/postimg/stm32-usb-bootloader/DfuSeDemo05.PNG)
 	4. 燒錄完成!!<br>
-		![](/images/postimg/stm32-usb-bootloader/DfuSeDemo06.PNG)
+		![](https://yuhao-kuo.github.io/blog/images/postimg/stm32-usb-bootloader/DfuSeDemo06.PNG)
