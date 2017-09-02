@@ -9,7 +9,7 @@
 title: yuhao's map
 brief-intro: "Let the Dream come true."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yuhao-kuo.github.io/blog" # the base hostname & protocol for your site
+url: "https://yuhao-kuo.github.io/blog/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
