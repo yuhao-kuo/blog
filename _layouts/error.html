@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    {% include end2end_head.html %}
+    <body class="home">
+        <div class="hero">
+	    {% include google_analytics.html %}
+	    <a href="{{ site.url }}">
+                 <img src="{{ site.error-404-img }}" alt="404 image" class="dot">
+	    </a>
+            {{ content }}
+        </div>
+    </body>
+</html>
