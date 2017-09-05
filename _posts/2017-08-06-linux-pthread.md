@@ -2,8 +2,8 @@
 layout: post
 title: "Linux Pthread API 測試筆記"
 description: "Linux Pthread API test"
-categories: [linux]
-tags: [linux, c, thread]
+categories: [Linux]
+tags: [Linux, C]
 redirect_from:
   - /2017/08/06/
 ---

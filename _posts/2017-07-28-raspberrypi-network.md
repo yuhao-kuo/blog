@@ -2,8 +2,8 @@
 layout: post
 title: "Raspberry Pi 網路設定"
 description: "Raspberry Pi Network Static IP setting"
-categories: [rasbperry-pi]
-tags: [raspberry-pi, linux, setting]
+categories: [Rasbperry-Pi]
+tags: [Raspberry-Pi, Linux, Setting]
 redirect_from:
   - /2017/07/27/
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "STM32F4 USB Bootloader燒錄"
 description: "使用STM32F4 USB燒錄程式"
 categories: [STM32]
-tags: [STM32, bootloader]
+tags: [STM32, Bootloader]
 redirect_from:
   - /2017/08/11/
 ---

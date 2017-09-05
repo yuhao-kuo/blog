@@ -2,8 +2,8 @@
 layout: post
 title: "安裝MariaDB"
 description: "安裝MariaDB"
-categories: [mariadb]
-tags: [mariadb]
+categories: [MariaDB]
+tags: [MariaDB]
 redirect_from:
   - /2017/08/28/
 ---
