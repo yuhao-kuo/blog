@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "STM32F4 USB Bootloader燒錄"
-description: "使用STM32F4 USB燒錄程式"
+title: "STM32F4 USB DFU燒錄 on Windows"
+description: "在 Windows 上使用 DfuSe 燒錄 STM32F4"
 categories: [STM32]
-tags: [STM32, Bootloader]
+tags: [STM32]
 redirect_from:
   - /2017/08/11/
 ---
-# STM32F4 USB Bootloader燒錄 #
 
 最近實驗室要做教學用的小車子, 所以板子體積要小, 所以就選擇微雪電子的Core405R
 這個板子有ST-Link接頭和一個USB接頭, 經費問題弄不到ST-Link剩下USB可以拿來燒錄了
