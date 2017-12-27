@@ -2,20 +2,14 @@
 layout: post
 title: "VirtualBox 橋接網路介面"
 description: "VirtualBox 橋接網路介面實作筆記"
-categories: [vm]
-tags: [vm, network]
+categories: [VirtualMachine]
+tags: [VirtualMachine, Network]
 redirect_from:
   - /2017/12/26/
 ---
 
 * Kramdown table of contents
 {:toc .toc}
-
-> 橋接網路介面概念,
-> 產生橋接介面,
-> virtualbox設定,
-> 挫折紀錄,
-> 參考資料
 
 VirtualBox 網路模式整體來分有4種
 
