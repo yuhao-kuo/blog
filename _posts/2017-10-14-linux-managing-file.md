@@ -3,7 +3,7 @@ layout: post
 title: "Command Line 檔案操作"
 description: "Linux Command Line 檔案操作筆記"
 categories: [Linux]
-tags: [Linuz]
+tags: [Linux]
 redirect_from:
   - /2017/10/14/
 ---
