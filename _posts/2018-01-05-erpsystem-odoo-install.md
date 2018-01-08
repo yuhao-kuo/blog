@@ -31,6 +31,7 @@ $ sudo systemctl start postgresql
 接下來就是安裝odoo了, 由於odoo(寫此筆記時)並不在centos的repo中, 所以要先加入repo才能使用yum安裝
 
 ```shell
+$ sudo yum install epel-release
 $ sudo yum install yum-utils
 
 # 加入odoo的repo
