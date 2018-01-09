@@ -5,7 +5,7 @@ description: "centos 7 install Odoo"
 categories: [Linux, ERP]
 tags: [Linux, Setting, ERP]
 redirect_from:
-  - /2017/12/27/
+  - /2018/08/05/
 ---
 
 Odoo 是一款開放原始碼的ERP, ERP全名是Enterprise Resource Planning企業資源計劃, 有名的付費ERP有Oracle / SAP / 在台灣比較有名的則是有鼎新等等... Open Souerce的ERP除了Odoo之外還有ERPnext / iDempiere / Dolibarr ERP等等...
@@ -45,7 +45,7 @@ $ sudo systemctl enable odoo
 $ sudo systemctl start odoo
 ```
 
-## 連線到erp
+## 連線到 ERP
 
 Odoo預設的port是8069, 開啟瀏覽器 localhost:8069就可以看到了, 當然如果是外部的機器要連入則是需要允許8069通過防火牆
 
