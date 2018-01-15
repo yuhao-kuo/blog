@@ -55,7 +55,7 @@ redirect_from:
 
 1. [virt-manager 官方下載頁](https://virt-manager.org/download/)
     1. 下載點位置在左上角, 紅色框框的位置
-        ![下載位置](/images/postimg/virt-manager/virt-manager-download-page.png)
+        ![下載位置](/blog/images/postimg/virt-manager/virt-manager-download-page.png)
     2. 保險起見可以使用gpg去檢查一下下載的檔案是否有問題
 2. [git clone 連結](https://github.com/virt-manager/virt-manager.git)
     ```
