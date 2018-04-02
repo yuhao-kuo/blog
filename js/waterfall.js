@@ -14,9 +14,9 @@
      */
   var demoContent = [
     {
-      demo_link: 'http://yuhao-kuo.github.io/kalmanfilter_demo',
+      demo_link: 'http://yuhao-kuo.github.io/kalmanfilter',
       img_link: '',
-      code_link: 'https://github.com/yuhao-kuo/kalmanfilter_demo',
+      code_link: 'https://github.com/yuhao-kuo/kalmanfilter',
       title: 'Kalman Filter Demo程式',
       core_tech: 'C, KalmanFilter',
       description: '一個展示用的卡爾曼濾波器程式。'
